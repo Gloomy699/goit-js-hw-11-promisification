@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-11-promisification",
+  "version": "1.0.0",
+  "description": "promisification",
+  "main": "index.js",
+  "scripts": {
+     "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gloomy699/goit-js-hw-11-promisification.git"
+  },
+  "author": "Gloomy699",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gloomy699/goit-js-hw-11-promisification/issues"
+  },
+  "homepage": "https://github.com/Gloomy699/goit-js-hw-11-promisification#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
