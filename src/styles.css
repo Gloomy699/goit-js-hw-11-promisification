@@ -11,10 +11,9 @@
   margin-bottom: 20px;
   display: block;
   text-align: center;
-
 }
 table {
-    margin: auto;
+  margin: auto;
   margin-bottom: 20px;
   border-collapse: collapse;
   border: 2px solid gray;
@@ -37,5 +36,4 @@ th {
 }
 .error {
   color: red;
-} */
-
+}
